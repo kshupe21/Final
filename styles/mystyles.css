@@ -27,6 +27,9 @@ img{
     height: fit-content;
     margin: auto;
     display: block;
+    background-repeat: no-repeat;
+    background-size: contain;
+    border: 2px solid #08060a;
 }
 
 #pics {text-align: center; padding-bottom: 10%;}
